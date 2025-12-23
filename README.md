@@ -1,6 +1,6 @@
 # SmartHealth Premium Predictor
 
-A machine learning project that predicts health insurance premiums using demographic and medical data from 50,000+ individuals. The project uses age-based segmentation and advanced regression models to achieve high prediction accuracy and can be deployed for real-time premium estimation in applications.
+A machine learning project that predicts health insurance premiums using demographic and medical data. The project uses age-based segmentation and advanced regression models to achieve high prediction accuracy and can be deployed for real-time premium estimation in applications.
 
 ---
 
