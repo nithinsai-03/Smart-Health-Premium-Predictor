@@ -5,6 +5,7 @@ A machine learning project that predicts health insurance premiums using demogra
 ---
 
 ## 🚀 Features
+- End-to-end machine learning pipeline covering data ingestion, preprocessing, feature engineering, model training, evaluation, and deployment readiness. 
 - Data preprocessing including handling missing values and outlier detection using IQR.  
 - Feature engineering for both categorical and numerical variables to improve model performance.  
 - Age-based segmentation:  
@@ -19,12 +20,6 @@ A machine learning project that predicts health insurance premiums using demogra
 ## 🛠️ Tools & Technologies
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Joblib  
-
----
-
-## 📁 Dataset
-- Dataset contains 50,000+ health insurance records with 12 features including age, sex, BMI, number of dependents, smoking status, region, and other relevant attributes.  
-- [You can link the dataset here if it’s public]
 
 ---
 
